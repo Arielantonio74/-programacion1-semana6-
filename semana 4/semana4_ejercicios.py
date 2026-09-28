@@ -99,3 +99,11 @@
 # print(f"El promedio es: {promedio}")
 
 # Ejercicio 4.3. Creá una tupla con tres colores y mostrala desempaquetándola en variables individuales.
+# colores = ("rojo", "verde", "azul")
+# r,g,b=colores
+# print(f"Colores: {r, g, b}")
+
+# # Parte 5 — Tu primer repositorio (GitHub/GitLab) ★
+# Un sistema de control de versiones te permite guardar la historia de tu código y colaborar sin pisarte con otros. 
+# Esta semana el objetivo es simple: que tus soluciones terminen publicadas en un repositorio propio. El ciclo que vas a usar toda la carrera es: add → commit → push.
+
